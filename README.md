@@ -1,6 +1,8 @@
-# [name]
+# AI Security Bulkhead
 
-An agent security framework for people who build agents. Work in progress.
+A practical way to apply agent safety and security best practices (OWASP, NIST, Google SAIF, CoSAI) when you build an agent: requirements you can test, policy templates, and skills. Work in progress.
+
+A bulkhead keeps a breach in one compartment of a ship, whatever caused it. The same idea runs through this guide: the system limits the damage, whatever the model outputs and whoever made it do so.
 
 The core is already taught in lectures:
 
